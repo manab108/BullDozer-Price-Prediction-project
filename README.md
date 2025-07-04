@@ -2,7 +2,7 @@
 
 # Predicting Bull-dozer price using machine learning
 
-This machine learing and data science project makes an attempt to build a machine learning model capable of predicting the sala price of a bull-dozer based on certain parameters.
+This machine learing and data science project makes an attempt to build a machine learning model capable of predicting the sale price of a bull-dozer based on certain parameters.
 
 We'r going to take the following approach:
 1. Problem definition
